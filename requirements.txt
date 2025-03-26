@@ -1,2 +1,5 @@
+streamlit
 transformers
-torch  # If using PyTorch
+torch
+sentencepiece
+torchtext
